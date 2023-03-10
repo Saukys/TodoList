@@ -108,7 +108,7 @@ int main()
         cout << "[a]dd a new Todo item" << endl;
         cout << "[c]omlete/uncomplete a Todo item" << endl;
         cout << "[q]uit" << endl;
-        cout << "[d]elate" << endl;
+        cout << "[d]elete" << endl;
         cout << "choice:";
         cin >> choice;
        
